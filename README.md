@@ -1,3 +1,16 @@
+# Animal Crossing - Lets Learn Together
+
+<div align="center">
+<img    
+    alt="goat"
+    src="https://www.animal-crossing.com/new-horizons/assets/img/global/logos/logo-acnh-en.png"
+  />
+</div>
+
+Created by Jess, Robyn & Liam
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
