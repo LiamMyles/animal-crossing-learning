@@ -17,7 +17,7 @@ import Liam from "./pages/Liam"
 
 export default function BasicExample() {
   return (
-    <Router>
+    <Router basename="/animal-crossing-learning/">
       <div>
         <ul>
           <li>
