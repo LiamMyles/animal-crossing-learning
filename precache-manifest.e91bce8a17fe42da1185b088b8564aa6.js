@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ce0828805546993b3449fb8b9b7b42d8",
+    "revision": "c18a0825dca43388bcfa8f7fea3576c1",
     "url": "/animal-crossing-learning/index.html"
   },
   {
-    "revision": "66214c81743330d780a3",
+    "revision": "301871303164ff4705b7",
     "url": "/animal-crossing-learning/static/css/main.b50b2e78.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/animal-crossing-learning/static/js/2.2028d085.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "66214c81743330d780a3",
-    "url": "/animal-crossing-learning/static/js/main.69fcf9dd.chunk.js"
+    "revision": "301871303164ff4705b7",
+    "url": "/animal-crossing-learning/static/js/main.d2b323df.chunk.js"
   },
   {
     "revision": "e2ee513e13f509356442",

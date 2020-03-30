@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/animal-crossing-learning/static/css/main.b50b2e78.chunk.css",
-    "main.js": "/animal-crossing-learning/static/js/main.69fcf9dd.chunk.js",
-    "main.js.map": "/animal-crossing-learning/static/js/main.69fcf9dd.chunk.js.map",
+    "main.js": "/animal-crossing-learning/static/js/main.d2b323df.chunk.js",
+    "main.js.map": "/animal-crossing-learning/static/js/main.d2b323df.chunk.js.map",
     "runtime-main.js": "/animal-crossing-learning/static/js/runtime-main.66934f04.js",
     "runtime-main.js.map": "/animal-crossing-learning/static/js/runtime-main.66934f04.js.map",
     "static/js/2.2028d085.chunk.js": "/animal-crossing-learning/static/js/2.2028d085.chunk.js",
     "static/js/2.2028d085.chunk.js.map": "/animal-crossing-learning/static/js/2.2028d085.chunk.js.map",
     "index.html": "/animal-crossing-learning/index.html",
-    "precache-manifest.efda43faa1d670bdef145aec5f04ac22.js": "/animal-crossing-learning/precache-manifest.efda43faa1d670bdef145aec5f04ac22.js",
+    "precache-manifest.e91bce8a17fe42da1185b088b8564aa6.js": "/animal-crossing-learning/precache-manifest.e91bce8a17fe42da1185b088b8564aa6.js",
     "service-worker.js": "/animal-crossing-learning/service-worker.js",
     "static/css/main.b50b2e78.chunk.css.map": "/animal-crossing-learning/static/css/main.b50b2e78.chunk.css.map",
     "static/js/2.2028d085.chunk.js.LICENSE.txt": "/animal-crossing-learning/static/js/2.2028d085.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.66934f04.js",
     "static/js/2.2028d085.chunk.js",
     "static/css/main.b50b2e78.chunk.css",
-    "static/js/main.69fcf9dd.chunk.js"
+    "static/js/main.d2b323df.chunk.js"
   ]
 }
